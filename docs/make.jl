@@ -4,7 +4,7 @@ makedocs(
     sitename = "AppliGate",
     format = Documenter.HTML(),
     pages = [
-        "AppliGate" => "index.md"
-        "Past Expertise" => "cv.md"
+        "AppliGate" => "index.md",
+        "Employees" => "employees.md"
     ]
 )
