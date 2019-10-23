@@ -1,7 +1,7 @@
 # Employees
 
 ## Rob Bontekoe
-![Rob Bontekoe](/rbontekoe.github.io/rob.png "Rob Bontekoe")
+![Rob Bontekoe](/rbontekoe.github.io/rob.png)
 Rob founded AppliGate in 1985. He is currently a software developer and working on the elderly monitoring system. An overview of his achievements.
 
 ### Website AppliGate
