@@ -5,7 +5,7 @@ Appligate's focus is the Julia programming language:
 - Online courses.
 - IoT projects, with Python too.
 
-## Projects
+## Current Projects
 1. Elderly Monitoring. Our mission is to deliver the software for a Raspberry Pi based monitoring system.
 2. Online course: **Building Business Systems with Julia**.
 
