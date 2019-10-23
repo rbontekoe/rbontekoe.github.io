@@ -15,7 +15,7 @@ AppliGate became known in 1986 with the course 'Hardware Management PC,' a class
 
 ## Current Expertise
 - Julia;
-- Python;
+- Flask/Python;
 - Atom;
 - Git;
 - Docker;
