@@ -1,5 +1,5 @@
 # AppliGate
-AppliGate is a IT-Consultancy company in the Netherlands.
+AppliGate is an IT-Consultancy company in the Netherlands.
 
 ## Focus
 Appligate's focus is the Julia programming language:
