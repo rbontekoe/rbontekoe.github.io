@@ -1,4 +1,4 @@
-# Current Projectas
+# Current Projects
 
 ## Online course
 
