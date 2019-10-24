@@ -1,6 +1,6 @@
 # AppliGate
 
-![AppliGate](/rbontekoe.github.io/rob2.png)
+![AppliGate](/rbontekoe.github.io/logo5.png)
 
 AppliGate is an IT-Consultancy company in the Netherlands.
 
