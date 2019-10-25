@@ -7,6 +7,7 @@ makedocs(
         "AppliGate" => "index.md",
         "Blog" => "blog.md",
         "Projects" => "projects.md",
+        "Contact" => "contact.md",
         "Employees" => "employees.md"
     ]
 )
