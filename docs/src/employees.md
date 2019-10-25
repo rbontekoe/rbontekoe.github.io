@@ -16,7 +16,7 @@ founded AppliGate in 1985. He is currently a software developer and working on t
 
 #### Java and IBM Lotus Domino Developer & Instructor | AppliGate – Jul 1994 - Nov 2014
 - He made AppliGate the first Lotus Authorized Education Center (LAEC) in the Netherlands in 1994; [LAEC of the year in the Netherlands](http://rbontekoe.github.io/loty.pdf) in 2000.
-- In 1996 the AppliGate website was developed to enable HR managers and students to apply online for a course.
+- In 1996 the AppliGate website was developed to enable HR managers and students to register online for a course.
 - He obtained the contract to deliver a customized 'IBM WebSphere Portal' course for a large ICT company.
 - [IBM Champion 2011/2012](/rbontekoe.github.io/champ.pdf) for 'Lotus and IBM Collaboration Solutions.'
 
