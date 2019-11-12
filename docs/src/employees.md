@@ -24,7 +24,7 @@ founded AppliGate in 1985. He is currently a software developer and working on t
 
 #### Website AppliGate
 - He built the AppliGate website using IBM Lotus Domino and Javascript,
-- made in line with this all internal business applications needed to function as a Lotus Authorized Education Centre in the Netherlands. We used IBM Lotus Notes & - Domino and LotusScript to accomplish it,
+- made in line with this all internal business applications needed to function as a Lotus Authorized Education Centre in the Netherlands. He used `IBM Lotus Notes & Domino` and `LotusScript` to accomplish it,
 - redesigned the AppliGate website in 2013 using the Restlet framework, Java, GAE, and Bigtable (JDO), and
 - developed the Event Scheduler for scheduling training courses, using the Restlet framework, Java, and Bigtable
 
