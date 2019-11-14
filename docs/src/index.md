@@ -18,7 +18,7 @@ We discovered that Julia is a programming language that is easy to learn. It als
 - [Literate.jl](https://github.com/fredrikekre/Literate.jl) E.g. our first [notebook](https://github.com/rbontekoe/RbO.jl/blob/master/test.ipynb).
 
 ## Current Course Development
-Currently, we are developing a course building an elderly monitoring system. Our goal is to deliver the software for a micro-services based system:
+Currently, we are developing a course building an [elderly monitoring system](https://rbontekoe.github.io/BAWJ/). Our goal is to deliver the software for a micro-services based system:
 - Using Docker,
 - the Ports and Adapter (Onion) pattern, and
 - machine learning.
