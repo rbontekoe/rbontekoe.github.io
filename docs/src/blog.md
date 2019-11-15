@@ -1,5 +1,13 @@
 # Blog
 
+## November 2019
+
+### 11/15/2019
+
+Almost ready to link www.appligate.nl to rbontekoe.github.io. We have to change the CNAME record at the provider from [appligate.appspot.com](http://appligate.appspot.com/) to [rbontekoe.github.io](https://rbontekoe.github.io/).
+
+We also started with writing the course material for the online training [BAWJ](https://rbontekoe.github.io/BAWJ/).
+
 ## October 2019
 
 ### 10/21/2019
