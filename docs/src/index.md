@@ -5,7 +5,7 @@
 AppliGate is an IT-Consultancy company in the Netherlands.
 
 ## History
-AppliGate became known in 1986 with the course `Hardware Beheer PC`, a class where people learned to fix errors that occurred PCs. In 1994 started AppliGate as Lotus Authorized Education Center, LAEC, with instructor-led Lotus Notes & Domino training. In 2014 we stopped by delivering these courses. After first experimenting with Scala we decided to switch to Julia in July 2019.
+AppliGate became known in 1986 with the course `Hardware Beheer PC`, a class where people learned to fix errors that occurred in PCs. In 1994 AppliGate started as Lotus Authorized Education Center, LAEC, with instructor-led Lotus Notes & Domino training. In 2014 we stopped by delivering these courses. After first experimenting with Scala we decided to switch to Julia in July 2019.
 
 ## Our Focus
 AppliGate is developing online courses,
