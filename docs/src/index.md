@@ -14,14 +14,14 @@ AppliGate is developing online courses,
 
 ## Why?
 We discovered that Julia is a programming language that is easy to learn. It also supports Jupyter Notebooks (IJulia), ideal for experimenting with Julia via a browser. Two packages make it easy to create online course material:
-- [Documenter.jl](https://juliadocs.github.io/Documenter.jl/stable/). E.g. our first [tutorial](https://rbontekoe.github.io/tutorial_rbo/).
-- [Literate.jl](https://github.com/fredrikekre/Literate.jl) E.g. our first [notebook](https://github.com/rbontekoe/RbO.jl/blob/master/test.ipynb).
+- [Documenter.jl](https://juliadocs.github.io/Documenter.jl/stable/).
+- [Literate.jl](https://github.com/fredrikekre/Literate.jl).
 
 ## Current Course Development
-Currently, we are developing a course building an [temperature monitoring system](https://rbontekoe.github.io/BAWJ/). Our goal is to deliver the software for a micro-services based system:
+Currently, we are developing a course building an [Building Business Applications with Julia](https://rbontekoe.github.io/BAWJ/). Our goal is to deliver the software for a micro-services based system:
 - Using Docker,
 - the Ports and Adapter (Onion) pattern, and
-- machine learning.
+- Machine Learning.
 
 ## Current Languages and Tools
 - Julia;
