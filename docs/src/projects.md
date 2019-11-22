@@ -42,4 +42,4 @@ This course will teach you how to:
 
 ### Outline
 
-Under development, please look at the [index](https://rbontekoe.github.io/BAWL)
+Under development, please look at the [index](https://www.appligate.nl/BAWJ/) of the course.
