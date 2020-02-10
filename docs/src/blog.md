@@ -1,8 +1,14 @@
 # Blog
 
+## February 2020
+
+## 02/10/2020
+
+See [blog BAWJ](https://www.appligate.nl/BAWJ/blog/).
+
 ## December 2019
 
-## 12/05/2019
+### 12/05/2019
 
 Last week I managed to establish an SSH connection between two containers. This week I could finish [Chapter 9](https://www.appligate.nl/BAWJ/chapter9/), `Create the Container`, more or less. The next step is to test a channel connection between two containers.
 
