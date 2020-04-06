@@ -50,5 +50,5 @@ founded AppliGate in 1985. He is currently a software developer and working on t
 - The course How to use Managed Beans in XPages, [part 1](https://docs.google.com/document/d/1XFXEmXH8KFcXEHcs2qvbWqOs_TqJWJ8Dbs9CMMKLszI/edit#heading=h.fhem26gny7bn), and [part 2](https://docs.google.com/document/d/1PHSvS9inu579YnuCJXbpsG8tday_yn64lTcIaUd0W9s/edit#heading=h.ftadc2vs6of5).
 
 ### SKILLS
-- Outstanding: Java, Docker, REST (Restlet framework), JSON, GAE, JDO, XPages, Lotus Domino.
+- Outstanding: Java, Docker, REST (Restlet framework), JSON, GAE, JDO, XPages, Lotus Domino, Julia.
 - Well known: Scala, Akka, Play, Slick, PostgreSQL, SBT, Python, Flask, JavaScript, AngularJS, HTML/CSS, XML, XSLT, SOAP, Linux.
