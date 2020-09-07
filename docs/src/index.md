@@ -9,7 +9,7 @@ AppliGate became known in 1986 with the course `Hardware Beheer PC`, a class whe
 
 ## Our Focus
 AppliGate is developing online courses,
-- with [Julia](https://julialang.org/) and Python as programming languages, and
+- with [Julia](https://julialang.org/) as programming language, and
 - IoT in mind.
 
 ## Why?
