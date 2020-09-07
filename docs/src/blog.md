@@ -4,13 +4,13 @@
 
 ## 02/10/2020
 
-See [blog BAWJ](https://www.appligate.nl/BAWJ/blog/).
+See [blog BAWJ](https://www.appligate.nl/BAWJ/stable/blog/).
 
 ## December 2019
 
 ### 12/05/2019
 
-Last week I managed to establish an SSH connection between two containers. This week I could finish [Chapter 9](https://www.appligate.nl/BAWJ/chapter9/), `Create the Container`, more or less. The next step is to test a channel connection between two containers.
+Last week I managed to establish an SSH connection between two containers. This week I could finish [Chapter 12](https://www.appligate.nl/BAWJ/stable/chapter12/), `Create the Container`, more or less. The next step is to test a channel connection between two containers.
 
 ## November 2019
 
@@ -18,7 +18,7 @@ Last week I managed to establish an SSH connection between two containers. This 
 
 Almost ready to link www.appligate.nl to rbontekoe.github.io. We have to change the CNAME record at the provider from [appligate.appspot.com](http://appligate.appspot.com/) to [rbontekoe.github.io](https://rbontekoe.github.io/).
 
-We also started with writing the course material for the online training [BAWJ](https://rbontekoe.github.io/BAWJ/).
+We also started with writing the course material for the online training [BAWJ](https://rbontekoe.github.io/BAWJ/stable/).
 
 ## October 2019
 
