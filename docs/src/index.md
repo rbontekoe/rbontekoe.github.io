@@ -18,17 +18,15 @@ We discovered that Julia is a programming language that is easy to learn. It als
 - [Literate.jl](https://github.com/fredrikekre/Literate.jl): IJulia notebooks as teaching material.
 
 ## Course Development
-Currently, we are developing the 'course' [Building Business Applications with Julia](https://rbontekoe.github.io/BAWJ/). Our goal is to build the software for a modular based system:
+Currently, we are developing the 'course' [Building Business Applications with Julia](https://www.appligate.nl/BAWJ/stable). Our goal is to build the software for a modular based system:
 - Using Docker,
 - the Onion architecture, and
 - Machine Learning.
 
 ## Languages and Tools
 - Julia;
-- Flask/Python;
 - Atom;
 - Git;
 - Docker;
 - Raspberry Pi Zero W;
-- Raspberry Pi 3B;
-- Google Kubernetes Engine.
+- Raspberry Pi 3B.
