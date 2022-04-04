@@ -1,6 +1,39 @@
 # Current Project
 
-## Online course
+## Porting to Kubernetes, course BAWJK
+
+Everything is Kubernetes these days. So we ported the original BAWJ course to a Kubernetes environment [ar.jl](https://github.com/rbontekoe/ar), in our case MicroK8s running on Ubuntu 20.04.
+
+### Course Title
+Building Business Application with Julia in MicroK8s.
+
+### Basic Idea
+- Using MicroK8s;
+- Retain the original modules AppliSales.jl, AppliAR.jl, and AppliGeneralLedger.jl;
+- Communication via TCP sockets;
+- Pluto.jl notebook as interface.
+
+### Audience
+
+This course is Julia programmers who are familiar with the principles from the course BAWJ.
+
+### Course design
+
+The course design follows a lecture/lab task-oriented approach.
+
+### Course goals
+
+This course will teach you how to:
+
+- Install MicroK8s on Ubuntu 20.04.
+- Activate Istio, Registry, Storage, DNS, and Dashboard.
+- Write communication software using TCP sockets.
+- Store AppliAR and AppliGeneralLedger Docker images on MacroK8s registry.
+- Install ArgoCD.
+- Write and test Kubernetes YAML files.
+- Create an ArgoCD application.
+
+## Online course, BAWJ
 
 We started with the project `rbontekoe/RbO.jl.` to build up experience with Julia, based on the ports and adapter design pattern. The publisher-subscriber model was chosen, which resulted in the RbO.jl package. With Documenter.jl we wrote the [documentation](https://rbontekoe.github.io/RbO.jl/) for the module. It also gave us the idea to write courses with Documenter.jl, and developed a [tutorial](https://rbontekoe.github.io/tutorial_rbo/) as a test.
 
