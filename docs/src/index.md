@@ -13,20 +13,27 @@ AppliGate is developing online courses,
 - IoT in mind.
 
 ## Why?
-We discovered that Julia is a programming language that is easy to learn. It also supports Jupyter Notebooks (IJulia), ideal for experimenting with Julia via a browser. Two packages make it easy to create online course material:
+We discovered that Julia is a programming language that is easy to learn. It also supports Pluto.jl as notebook, ideal for experimenting with Julia via a browser. One package make it easy to create online course material:
 - [Documenter.jl](https://juliadocs.github.io/Documenter.jl/stable/): Learning material and documentation.
-- [Literate.jl](https://github.com/fredrikekre/Literate.jl): IJulia notebooks as teaching material.
 
 ## Course Development
-Currently, we are developing the 'course' [Building Business Applications with Julia](https://www.appligate.nl/BAWJ/stable). Our goal is to build the software for a modular based system:
+Everything is Kubernetes these days. So we ported the original BAWJ course to a Kubernetes environment [ar.jl](https://github.com/rbontekoe/ar), in our case MicroK8s running on Ubuntu 20.04:
+- Retain the original modules AppliSales.jl, AppliAR.jl, and AppliGeneralLedger.jl
+- Communication via TCP sockets;
+- Pluto.jl notebook as interface;
+- Istio;
+- ArgoCD;
+- Jenkins.
+
+In the past we developed the 'course' [BAWJ, Building Business Applications with Julia](https://www.appligate.nl/BAWJ/stable). Our goal is to build the software for a modular based system:
 - Using Docker,
-- the Onion architecture, and
-- Machine Learning.
+- The Onion architecture.
 
 ## Languages and Tools
 - Julia;
-- Atom;
+- VSCode;
 - Git;
 - Docker;
-- Raspberry Pi Zero W;
+- ArgoCD;
+- Jenkins;
 - Raspberry Pi 3B.
