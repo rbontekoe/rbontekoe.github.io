@@ -20,7 +20,7 @@ We discovered that Julia is a programming language that is easy to learn. It als
 Everything is Kubernetes these days. So we ported the original BAWJ course to a Kubernetes environment [ar.jl](https://github.com/rbontekoe/ar), in our case MicroK8s running on Ubuntu 20.04:
 - Retain the original modules AppliSales.jl, AppliAR.jl, and AppliGeneralLedger.jl
 - Communication via TCP sockets;
-- Pluto.jl notebook as interface;
+- IJulia, notebook as interface;
 - Istio;
 - ArgoCD;
 - Jenkins.
