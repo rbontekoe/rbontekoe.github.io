@@ -1,5 +1,9 @@
 # Blog
 
+## Februari 2023
+
+Currently, I'm involved in developing the RASPIKIDS course, which will be an online, hands-on course in Dutch language utilizing Raspberry Pi 3B+ and Docker. For additional details, please visit [RASPIKIDS](https://www.appligate.nl/RASPIKIDS/stable/).
+
 ## February 2020
 
 ## 02/10/2020
