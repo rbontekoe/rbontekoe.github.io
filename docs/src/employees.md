@@ -48,6 +48,7 @@ founded AppliGate in 1985. He is currently a software developer and working on t
 #### Links
 - AngularJs project - 2013: Multiple Choice - Java, GAE, Restlet, Firebase, AngularJS.
 - The course How to use Managed Beans in XPages, [part 1](https://docs.google.com/document/d/1XFXEmXH8KFcXEHcs2qvbWqOs_TqJWJ8Dbs9CMMKLszI/edit#heading=h.fhem26gny7bn), and [part 2](https://docs.google.com/document/d/1PHSvS9inu579YnuCJXbpsG8tday_yn64lTcIaUd0W9s/edit#heading=h.ftadc2vs6of5).
+- As volunteer at CoderDojo Leusden the online courses: [RASPIKIDS](https://www.appligate.nl/RASPIKIDS/stable/), and [SENSEHATKIDS](https://www.appligate.nl/SENSEHATKIDS/stable/)
 
 ### SKILLS
 - Outstanding: Julia.
